@@ -1,0 +1,487 @@
+2018-05-13 14:43:35,818:INFO: Initializing tf session
+2018-05-13 14:43:36,417:INFO: Epoch 1 out of 15
+2018-05-13 14:43:37,680:INFO: acc 76.47 - f1 20.00
+2018-05-13 14:43:37,989:INFO: - new best score!
+2018-05-13 14:43:37,989:INFO: Epoch 2 out of 15
+2018-05-13 14:43:38,186:INFO: acc 64.71 - f1 0.00
+2018-05-13 14:43:38,186:INFO: Epoch 3 out of 15
+2018-05-13 14:43:38,466:INFO: acc 64.71 - f1 0.00
+2018-05-13 14:43:38,466:INFO: Epoch 4 out of 15
+2018-05-13 14:43:38,738:INFO: acc 64.71 - f1 0.00
+2018-05-13 14:43:38,738:INFO: - early stopping 3 epochs without improvement
+2018-05-13 14:43:59,495:INFO: Initializing tf session
+2018-05-13 14:43:59,669:INFO: Reloading the latest trained model...
+2018-05-13 14:43:59,670:INFO: Restoring parameters from results/test/model.weights/
+2018-05-13 14:43:59,791:INFO: Testing model over test set
+2018-05-13 14:43:59,970:INFO: acc 76.47 - f1 20.00
+2018-05-13 14:43:59,970:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-13 14:44:24,478:INFO: I STUDY  in     beijing 
+2018-05-13 14:44:24,479:INFO: O B-MISC I-MISC O       
+2018-05-13 16:44:28,020:INFO: Initializing tf session
+2018-05-13 16:44:28,782:INFO: Epoch 1 out of 15
+2018-05-13 16:45:28,872:INFO: acc 94.35 - f1 74.96
+2018-05-13 16:45:29,260:INFO: - new best score!
+2018-05-13 16:45:29,260:INFO: Epoch 2 out of 15
+2018-05-13 16:46:31,459:INFO: acc 95.96 - f1 82.13
+2018-05-13 16:46:31,844:INFO: - new best score!
+2018-05-13 16:46:31,845:INFO: Epoch 3 out of 15
+2018-05-13 16:47:40,705:INFO: acc 96.31 - f1 82.14
+2018-05-13 16:47:41,125:INFO: - new best score!
+2018-05-13 16:47:41,125:INFO: Epoch 4 out of 15
+2018-05-13 16:48:51,305:INFO: acc 96.75 - f1 83.82
+2018-05-13 16:48:51,697:INFO: - new best score!
+2018-05-13 16:48:51,697:INFO: Epoch 5 out of 15
+2018-05-13 16:50:02,139:INFO: acc 97.06 - f1 85.06
+2018-05-13 16:50:02,514:INFO: - new best score!
+2018-05-13 16:50:02,514:INFO: Epoch 6 out of 15
+2018-05-13 16:51:10,813:INFO: acc 97.33 - f1 86.30
+2018-05-13 16:51:11,189:INFO: - new best score!
+2018-05-13 16:51:11,190:INFO: Epoch 7 out of 15
+2018-05-13 16:52:19,793:INFO: acc 97.46 - f1 87.18
+2018-05-13 16:55:43,676:INFO: - new best score!
+2018-05-13 16:55:43,676:INFO: Epoch 8 out of 15
+2018-05-13 16:56:46,293:INFO: acc 97.58 - f1 87.69
+2018-05-13 16:56:46,668:INFO: - new best score!
+2018-05-13 16:56:46,669:INFO: Epoch 9 out of 15
+2018-05-13 16:57:54,693:INFO: acc 97.81 - f1 88.76
+2018-05-13 16:57:55,078:INFO: - new best score!
+2018-05-13 16:57:55,078:INFO: Epoch 10 out of 15
+2018-05-13 16:59:02,563:INFO: acc 97.90 - f1 89.15
+2018-05-13 16:59:02,951:INFO: - new best score!
+2018-05-13 16:59:02,951:INFO: Epoch 11 out of 15
+2018-05-13 17:00:11,401:INFO: acc 98.05 - f1 89.74
+2018-05-13 17:00:11,808:INFO: - new best score!
+2018-05-13 17:00:11,809:INFO: Epoch 12 out of 15
+2018-05-13 17:01:19,752:INFO: acc 98.06 - f1 89.69
+2018-05-13 17:01:19,753:INFO: Epoch 13 out of 15
+2018-05-13 17:02:26,917:INFO: acc 98.28 - f1 90.65
+2018-05-13 17:02:27,302:INFO: - new best score!
+2018-05-13 17:02:27,302:INFO: Epoch 14 out of 15
+2018-05-13 17:03:33,983:INFO: acc 98.40 - f1 91.40
+2018-05-13 17:03:34,381:INFO: - new best score!
+2018-05-13 17:03:34,381:INFO: Epoch 15 out of 15
+2018-05-13 17:04:41,748:INFO: acc 98.48 - f1 92.07
+2018-05-13 17:04:42,145:INFO: - new best score!
+2018-05-13 17:05:00,436:INFO: Initializing tf session
+2018-05-13 17:05:00,693:INFO: Reloading the latest trained model...
+2018-05-13 17:05:00,694:INFO: Restoring parameters from results/test/model.weights/
+2018-05-13 17:05:00,822:INFO: Testing model over test set
+2018-05-13 17:05:17,245:INFO: acc 98.48 - f1 92.07
+2018-05-13 17:05:17,246:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-13 17:06:10,008:INFO: Alka-Seltzer Cold  and Mucinex are what's finally getting me over my flu   
+2018-05-13 17:06:10,008:INFO: B-MED        I-MED O   B-MED   O   O      O       O       O  O    O  B-DIS 
+2018-05-13 17:06:55,081:INFO: Actually looking foreword to taking my #     Zyprexa. It's helping so much and numbing too. # schizophrenia 
+2018-05-13 17:06:55,082:INFO: O        O       O        O  O      O  B-DIS B-MED    O    O       O  O    O   O       O    O O             
+2018-05-13 17:07:26,939:INFO: Actually looking foreword to taking my Zyprexa. It's helping so much and numbing too. schizophrenia 
+2018-05-13 17:07:26,939:INFO: O        O       O        O  O      O  B-MED    O    O       O  O    O   O       O    O             
+2018-05-13 17:08:14,123:INFO: My OCD has clearly been cured since I started on Sertraline lol. 
+2018-05-13 17:08:14,123:INFO: O  O   O   O       O    O     O     O O       O  O          O    
+2018-05-13 17:09:01,888:INFO: I have a sensorimotor obsession that creates a feisty cocktail of anxiety and depression. Lexapro/therapy/writing calm the symptoms a little and it's extremely worth it to feel halfway normal 
+2018-05-13 17:09:01,888:INFO: O O    O O            O         O    O       O O      O        O  B-DIS   O   O           O                       O    O   O        O O      O   O    O         O     O  O  O    O       O      
+2018-05-13 17:09:35,470:INFO: I suffer from depression & anxiety. Throughout the last 14 years I've been prescribed Zoloft, Lexapro, Prozac, Welbutrin, Paxil and Celexa. They didn't work & most made me worse along w awful side effects. Self medicated in my 20's. A totally different genuinely happy person now 
+2018-05-13 17:09:35,470:INFO: O O      O    B-DIS      O O        O          O   O    O  O     O    O    O          O       O        O       B-MED      O     O   B-MED   O    B-MED  O    O O    O    O  O     O     O O     O    O        O    O         O  O  O     O O       O         O         O     O      O   
+2018-05-13 17:09:47,213:INFO: I have taken different medications in the past 4?? Years, but celexa and Prozac have helped the most with anxiety. though if u suffer from depression, Prozac can increase SI which is why I was taken off them 
+2018-05-13 17:09:47,214:INFO: O O    O     O         O           O  O   O    O   O      O   B-MED  O   B-MED  O    O      O   O    O    O        O      O  O O      O    O           O      O   O        O  O     O  O   O O   O     O   O    
+2018-05-13 17:11:23,460:INFO: Initializing tf session
+2018-05-13 17:11:23,716:INFO: Reloading the latest trained model...
+2018-05-13 17:11:23,716:INFO: Restoring parameters from results/test/model.weights/
+2018-05-13 17:11:23,836:INFO: Testing model over test set
+2018-05-13 17:11:40,087:INFO: acc 98.48 - f1 92.07
+2018-05-13 17:11:40,087:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-13 17:11:45,601:INFO: i have taken different medications in the past 4?? years, but celexa and prozac have helped the most with anxiety. though if u suffer from depression, prozac can increase si which is why i was taken off them 
+2018-05-13 17:11:45,601:INFO: O O    O     O         O           O  O   O    O   O      O   B-MED  O   B-MED  O    O      O   O    O    O        O      O  O O      O    O           O      O   O        O  O     O  O   O O   O     O   O    
+2018-05-13 17:14:16,216:INFO: i take prednisone for my asthma 
+2018-05-13 17:14:16,217:INFO: O O    B-MED      O   O  B-DIS  
+2018-05-13 17:14:29,082:INFO: i take prednisone for my anxiety 
+2018-05-13 17:14:29,084:INFO: O O    B-MED      O   O  B-DIS   
+2018-05-13 17:14:58,562:INFO: i take prednisone for my ocd   
+2018-05-13 17:14:58,563:INFO: O O    B-MED      O   O  B-DIS 
+2018-05-13 17:15:51,879:INFO: prednisone cure my ocd 
+2018-05-13 17:15:51,879:INFO: B-MED      O    O  O   
+2018-05-13 17:16:05,859:INFO: prednisone cure my asthma 
+2018-05-13 17:16:05,859:INFO: B-MED      O    O  B-DIS  
+2018-05-13 17:16:54,929:INFO: prednisone cure my anxiety 
+2018-05-13 17:16:54,930:INFO: B-MED      O    O  B-DIS   
+2018-05-13 17:17:06,303:INFO: prednisone cure my high  blood pressure 
+2018-05-13 17:17:06,304:INFO: B-MED      O    O  B-DIS I-DIS I-DIS    
+2018-05-14 10:22:57,609:INFO: Initializing tf session
+2018-05-14 10:22:58,926:INFO: Epoch 1 out of 15
+2018-05-14 10:23:57,467:INFO: acc 93.12 - f1 67.58
+2018-05-14 10:23:58,295:INFO: - new best score!
+2018-05-14 10:23:58,295:INFO: Epoch 2 out of 15
+2018-05-14 10:25:01,432:INFO: acc 94.37 - f1 75.16
+2018-05-14 10:25:02,115:INFO: - new best score!
+2018-05-14 10:25:02,116:INFO: Epoch 3 out of 15
+2018-05-14 10:26:06,094:INFO: acc 95.39 - f1 80.52
+2018-05-14 10:26:06,766:INFO: - new best score!
+2018-05-14 10:26:06,767:INFO: Epoch 4 out of 15
+2018-05-14 10:27:10,772:INFO: acc 95.20 - f1 79.09
+2018-05-14 10:27:10,773:INFO: Epoch 5 out of 15
+2018-05-14 10:28:14,092:INFO: acc 95.23 - f1 79.86
+2018-05-14 10:28:14,093:INFO: Epoch 6 out of 15
+2018-05-14 10:29:11,774:INFO: acc 95.25 - f1 80.07
+2018-05-14 10:29:11,774:INFO: - early stopping 3 epochs without improvement
+2018-05-14 15:33:41,125:INFO: Initializing tf session
+2018-05-14 15:33:41,888:INFO: Epoch 1 out of 15
+2018-05-14 15:34:16,933:INFO: acc 93.19 - f1 63.84
+2018-05-14 15:34:17,379:INFO: - new best score!
+2018-05-14 15:34:17,379:INFO: Epoch 2 out of 15
+2018-05-14 15:34:54,083:INFO: acc 95.14 - f1 74.93
+2018-05-14 15:34:54,447:INFO: - new best score!
+2018-05-14 15:34:54,447:INFO: Epoch 3 out of 15
+2018-05-14 15:35:31,696:INFO: acc 96.72 - f1 83.20
+2018-05-14 15:35:32,052:INFO: - new best score!
+2018-05-14 15:35:32,052:INFO: Epoch 4 out of 15
+2018-05-14 15:36:07,720:INFO: acc 96.69 - f1 81.82
+2018-05-14 15:36:07,720:INFO: Epoch 5 out of 15
+2018-05-14 15:36:43,922:INFO: acc 96.35 - f1 80.55
+2018-05-14 15:36:43,922:INFO: Epoch 6 out of 15
+2018-05-14 15:37:20,043:INFO: acc 95.95 - f1 79.25
+2018-05-14 15:37:20,043:INFO: - early stopping 3 epochs without improvement
+2018-05-14 15:39:29,987:INFO: Initializing tf session
+2018-05-14 15:39:30,251:INFO: Reloading the latest trained model...
+2018-05-14 15:39:30,251:INFO: Restoring parameters from results/test/model.weights/
+2018-05-14 15:39:30,378:INFO: Testing model over test set
+2018-05-14 15:39:32,513:INFO: acc 92.19 - f1 73.44
+2018-05-14 15:39:32,513:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-14 15:40:30,583:INFO: i had a caseof mycoplasma pneumonia (cabp),was given azithromycin 5days at <$20. by day 3 i was out jogging 
+2018-05-14 15:40:30,583:INFO: O O   O O      B-MED      B-DIS     O          O     B-MED        O     O  O     O  O   O O O   O   O       
+2018-05-14 15:41:45,099:INFO: @ faithfreek @ katebilo ty you too! been using claritin.. when its cold  i do feel much better!!! 
+2018-05-14 15:41:45,099:INFO: O O          O O        O  O   O    O    O     O          O    O   B-DIS O O  O    O    O         
+2018-05-14 15:42:05,778:INFO: i use claritin for my cold  
+2018-05-14 15:42:05,778:INFO: O O   B-MED    O   O  B-DIS 
+2018-05-14 15:43:15,907:INFO: Initializing tf session
+2018-05-14 15:43:16,173:INFO: Reloading the latest trained model...
+2018-05-14 15:43:16,173:INFO: Restoring parameters from results/test/model.weights/
+2018-05-14 15:43:16,299:INFO: Testing model over test set
+2018-05-14 15:43:18,372:INFO: acc 92.19 - f1 73.44
+2018-05-14 15:43:18,372:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-14 15:43:28,652:INFO: i use claritin for my cold  
+2018-05-14 15:43:28,653:INFO: O O   B-MED    O   O  B-DIS 
+2018-05-14 15:43:37,077:INFO: @ faithfreek @ katebilo ty you too! been using claritin.. when its cold    i do feel much better!!! 
+2018-05-14 15:43:37,077:INFO: O O          O O        O  O   O    O    O     O          O    O   B-DIS O O O  O    O    O         
+2018-05-14 16:36:11,011:INFO: Initializing tf session
+2018-05-14 16:36:11,754:INFO: Epoch 1 out of 15
+2018-05-14 16:36:49,941:INFO: acc 93.14 - f1 60.94
+2018-05-14 16:36:50,388:INFO: - new best score!
+2018-05-14 16:36:50,389:INFO: Epoch 2 out of 15
+2018-05-14 16:37:28,661:INFO: acc 94.22 - f1 68.85
+2018-05-14 16:37:29,028:INFO: - new best score!
+2018-05-14 16:37:29,029:INFO: Epoch 3 out of 15
+2018-05-14 16:38:06,560:INFO: acc 96.69 - f1 81.94
+2018-05-14 16:38:06,951:INFO: - new best score!
+2018-05-14 16:38:06,951:INFO: Epoch 4 out of 15
+2018-05-14 16:49:02,972:INFO: Initializing tf session
+2018-05-14 16:49:03,704:INFO: Epoch 1 out of 15
+2018-05-14 16:49:35,705:INFO: acc 92.34 - f1 73.19
+2018-05-14 16:49:36,108:INFO: - new best score!
+2018-05-14 16:49:36,109:INFO: Epoch 2 out of 15
+2018-05-14 16:50:07,649:INFO: acc 92.63 - f1 74.41
+2018-05-14 16:50:07,994:INFO: - new best score!
+2018-05-14 16:50:07,995:INFO: Epoch 3 out of 15
+2018-05-14 16:50:39,762:INFO: acc 92.63 - f1 75.35
+2018-05-14 16:50:40,090:INFO: - new best score!
+2018-05-14 16:50:40,090:INFO: Epoch 4 out of 15
+2018-05-14 16:51:12,217:INFO: acc 92.09 - f1 72.73
+2018-05-14 16:51:12,217:INFO: Epoch 5 out of 15
+2018-05-14 16:51:46,992:INFO: acc 91.46 - f1 69.16
+2018-05-14 16:51:46,992:INFO: Epoch 6 out of 15
+2018-05-14 16:52:23,501:INFO: acc 91.61 - f1 69.86
+2018-05-14 16:52:23,502:INFO: - early stopping 3 epochs without improvement
+2018-05-14 16:53:10,249:INFO: Initializing tf session
+2018-05-14 16:53:10,978:INFO: Epoch 1 out of 15
+2018-05-14 16:53:44,484:INFO: acc 92.09 - f1 70.84
+2018-05-14 16:53:44,887:INFO: - new best score!
+2018-05-14 16:53:44,887:INFO: Epoch 2 out of 15
+2018-05-14 16:54:16,636:INFO: acc 92.29 - f1 72.64
+2018-05-14 16:54:16,995:INFO: - new best score!
+2018-05-14 16:54:16,996:INFO: Epoch 3 out of 15
+2018-05-14 16:54:48,851:INFO: acc 92.63 - f1 74.11
+2018-05-14 16:54:49,206:INFO: - new best score!
+2018-05-14 16:54:49,207:INFO: Epoch 4 out of 15
+2018-05-14 16:55:21,099:INFO: acc 92.44 - f1 73.73
+2018-05-14 16:55:21,100:INFO: Epoch 5 out of 15
+2018-05-14 16:55:54,442:INFO: acc 91.75 - f1 69.77
+2018-05-14 16:55:54,443:INFO: Epoch 6 out of 15
+2018-05-14 16:56:33,015:INFO: acc 91.65 - f1 68.87
+2018-05-14 16:56:33,016:INFO: - early stopping 3 epochs without improvement
+2018-05-14 18:13:16,738:INFO: Initializing tf session
+2018-05-14 18:13:17,000:INFO: Reloading the latest trained model...
+2018-05-14 18:13:17,000:INFO: Restoring parameters from results/test/model.weights/
+2018-05-14 18:13:17,126:INFO: Testing model over test set
+2018-05-14 18:13:20,222:INFO: acc 96.83 - f1 83.95
+2018-05-14 18:13:20,222:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-14 18:14:13,784:INFO: i take xanax/prednisone for cold/asthma. 
+2018-05-14 18:14:13,784:INFO: O O    O                O   O            
+2018-05-14 18:14:50,034:INFO: i take xanax prednisone for cold  astha 
+2018-05-14 18:14:50,034:INFO: O O    B-MED B-MED      O   B-DIS O     
+2018-05-14 18:14:55,591:INFO: i take xanax prednisone for cold  asthma 
+2018-05-14 18:14:55,591:INFO: O O    B-MED B-MED      O   B-DIS B-DIS  
+2018-05-14 18:15:01,173:INFO: i take xanax prednisone for cold  asthma ocd 
+2018-05-14 18:15:01,173:INFO: O O    B-MED B-MED      O   B-DIS B-DIS  O   
+2018-05-14 18:15:24,973:INFO: i take xanax prednisone for cold  asthma panic 
+2018-05-14 18:15:24,973:INFO: O O    B-MED B-MED      O   B-DIS B-DIS  O     
+2018-05-14 18:15:35,080:INFO: i take xanax prednisone for cold  asthma diabetes 
+2018-05-14 18:15:35,081:INFO: O O    B-MED B-MED      O   B-DIS B-DIS  O        
+2018-05-14 18:15:43,640:INFO: i take xanax prednisone for cold  asthma diabetess 
+2018-05-14 18:15:43,641:INFO: O O    B-MED B-MED      O   B-DIS B-DIS  O         
+2018-05-14 18:15:52,059:INFO: i take xanax prednisone for diabetess 
+2018-05-14 18:15:52,059:INFO: O O    B-MED B-MED      O   O         
+2018-05-14 18:16:35,184:INFO: i take xanax prednisone for diabetes diabetess 
+2018-05-14 18:16:35,184:INFO: O O    B-MED B-MED      O   O        O         
+2018-05-17 18:57:37,184:INFO: Initializing tf session
+2018-05-17 18:57:38,254:INFO: Epoch 1 out of 15
+2018-05-17 18:58:42,596:INFO: acc 93.49 - f1 73.56
+2018-05-17 18:58:43,067:INFO: - new best score!
+2018-05-17 18:58:43,067:INFO: Epoch 2 out of 15
+2018-05-17 18:59:42,402:INFO: acc 95.84 - f1 82.47
+2018-05-17 18:59:42,902:INFO: - new best score!
+2018-05-17 18:59:42,902:INFO: Epoch 3 out of 15
+2018-05-17 19:00:42,581:INFO: acc 96.50 - f1 83.76
+2018-05-17 19:00:43,056:INFO: - new best score!
+2018-05-17 19:00:43,056:INFO: Epoch 4 out of 15
+2018-05-17 19:01:42,411:INFO: acc 97.30 - f1 87.17
+2018-05-17 19:01:42,868:INFO: - new best score!
+2018-05-17 19:01:42,868:INFO: Epoch 5 out of 15
+2018-05-17 19:02:38,998:INFO: acc 97.84 - f1 89.20
+2018-05-17 19:02:39,501:INFO: - new best score!
+2018-05-17 19:02:39,501:INFO: Epoch 6 out of 15
+2018-05-17 19:13:45,925:INFO: acc 98.09 - f1 89.97
+2018-05-17 19:13:46,278:INFO: - new best score!
+2018-05-17 19:13:46,278:INFO: Epoch 7 out of 15
+2018-05-17 19:14:44,514:INFO: acc 98.38 - f1 91.72
+2018-05-17 19:14:44,850:INFO: - new best score!
+2018-05-17 19:14:44,850:INFO: Epoch 8 out of 15
+2018-05-17 19:15:41,972:INFO: acc 98.43 - f1 91.37
+2018-05-17 19:15:41,972:INFO: Epoch 9 out of 15
+2018-05-17 19:16:38,087:INFO: acc 98.54 - f1 92.16
+2018-05-17 19:16:38,441:INFO: - new best score!
+2018-05-17 19:16:38,441:INFO: Epoch 10 out of 15
+2018-05-17 19:17:33,497:INFO: acc 98.70 - f1 92.84
+2018-05-17 19:17:33,827:INFO: - new best score!
+2018-05-17 19:17:33,827:INFO: Epoch 11 out of 15
+2018-05-17 19:18:29,497:INFO: acc 98.64 - f1 92.51
+2018-05-17 19:18:29,497:INFO: Epoch 12 out of 15
+2018-05-17 19:19:24,114:INFO: acc 98.86 - f1 93.76
+2018-05-17 19:19:24,484:INFO: - new best score!
+2018-05-17 19:19:24,484:INFO: Epoch 13 out of 15
+2018-05-17 19:20:18,101:INFO: acc 98.99 - f1 94.22
+2018-05-17 19:20:18,436:INFO: - new best score!
+2018-05-17 19:20:18,436:INFO: Epoch 14 out of 15
+2018-05-17 19:21:11,941:INFO: acc 99.11 - f1 95.12
+2018-05-17 19:21:12,295:INFO: - new best score!
+2018-05-17 19:21:12,295:INFO: Epoch 15 out of 15
+2018-05-17 19:22:05,765:INFO: acc 99.16 - f1 95.29
+2018-05-17 19:22:06,112:INFO: - new best score!
+2018-05-17 20:10:17,727:INFO: Initializing tf session
+2018-05-17 20:10:18,649:INFO: Epoch 1 out of 15
+2018-05-17 20:10:55,399:INFO: acc 92.11 - f1 69.15
+2018-05-17 20:10:55,833:INFO: - new best score!
+2018-05-17 20:10:55,834:INFO: Epoch 2 out of 15
+2018-05-17 20:11:32,128:INFO: acc 93.80 - f1 74.81
+2018-05-17 20:11:32,484:INFO: - new best score!
+2018-05-17 20:11:32,484:INFO: Epoch 3 out of 15
+2018-05-17 20:12:06,643:INFO: acc 94.54 - f1 76.60
+2018-05-17 20:12:06,983:INFO: - new best score!
+2018-05-17 20:12:06,984:INFO: Epoch 4 out of 15
+2018-05-17 20:12:44,420:INFO: acc 95.21 - f1 78.66
+2018-05-17 20:12:44,836:INFO: - new best score!
+2018-05-17 20:12:44,836:INFO: Epoch 5 out of 15
+2018-05-17 20:13:20,516:INFO: acc 96.09 - f1 81.63
+2018-05-17 20:13:20,882:INFO: - new best score!
+2018-05-17 20:13:20,882:INFO: Epoch 6 out of 15
+2018-05-17 20:13:57,021:INFO: acc 96.83 - f1 85.35
+2018-05-17 20:13:57,413:INFO: - new best score!
+2018-05-17 20:13:57,413:INFO: Epoch 7 out of 15
+2018-05-17 20:14:33,583:INFO: acc 96.83 - f1 85.20
+2018-05-17 20:14:33,584:INFO: Epoch 8 out of 15
+2018-05-17 20:15:09,480:INFO: acc 96.76 - f1 84.40
+2018-05-17 20:15:09,481:INFO: Epoch 9 out of 15
+2018-05-17 20:15:44,873:INFO: acc 96.83 - f1 84.91
+2018-05-17 20:15:44,873:INFO: - early stopping 3 epochs without improvement
+2018-05-17 20:18:11,057:INFO: Initializing tf session
+2018-05-17 20:18:11,433:INFO: Reloading the latest trained model...
+2018-05-17 20:18:11,433:INFO: Restoring parameters from results/test/model.weights/
+2018-05-17 20:18:11,624:INFO: Testing model over test set
+2018-05-17 20:18:15,029:INFO: acc 97.28 - f1 85.54
+2018-05-17 20:18:15,029:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-17 20:18:50,398:INFO: it's finally prednisone step-down day! i think this combo of methotrexate and prednisone is the magic ticket for my rheumatoid arthritis 
+2018-05-17 20:18:50,399:INFO: O    O       B-MED      O         O    O O     O    O     O  O            O   B-MED      O  O   O     O      O   O  O          B-DIS     
+2018-05-17 20:20:29,257:INFO: geez fuck yeah zoloft causes me horrible stomach aches so it's gotta go but my abilify doesn't do anything for my schizophrenia 
+2018-05-17 20:20:29,257:INFO: O    O    O    B-MED  O      O  O        O       O     O  O    O     O  O   O  O       O       O  O        O   O  O             
+2018-05-17 20:20:49,250:INFO: my abilify doesn't do anything for my schizophrenia 
+2018-05-17 20:20:49,250:INFO: O  O       O       O  O        O   O  O             
+2018-05-17 20:21:06,216:INFO: i got my risperdal injection today = it has been specified by doctors to keep my schizophrenia under control ! i sometimes rape girls 
+2018-05-17 20:21:06,217:INFO: O O   O  O         O         O     O O  O   O    O         O  O       O  O    O  O             O     O       O O O         O    O     
+2018-05-17 20:21:31,543:INFO: i lived this. put on two alzheimer's meds after a coma from encephilitis (aricept and mementine). aricept worked for years. kaiser put me on mementine with the aricept (why?). cognition devolved rapidly, put on 50 pounds (insulin resistance in my pancreas and brain i suspect).. 
+2018-05-17 20:21:31,544:INFO: O O     O     O   O  O   O           O    O     O O    O    O            O        O   B-MED       O       O      O   O      O      O   O  O  B-MED     O    O   O       O       O         O        O        O   O  O  O      O        O          O  O  O        O   O     O O          
+2018-05-17 20:21:53,610:INFO: my 75yr old aunt w/alzheimer's pays $200/month for aricept w/health insurance,so she can maintain her independence as long as possible 
+2018-05-17 20:21:53,611:INFO: O  O    O   O    O             O    O          O   O       O        O            O   O   B-MED    O   O            O  O    O  O        
+2018-05-17 20:22:20,827:INFO: @ kylejnorton hi kyle, migraine all my life. discovered 2yrs ago i have high  blood pressure put on amlodipine 5mg no more migraine xx 
+2018-05-17 20:22:20,827:INFO: O O           O  O     B-DIS    O   O  O     O          O    O   O O    B-DIS I-DIS I-DIS    O   O  B-MED      O   O  O    B-DIS    O  
+2018-05-17 20:26:37,849:INFO: found out i have rheumatoid arthritis.2good days in a row!! increased prednisone is helping.im super tired but hoping 2work on monday pt!! 
+2018-05-17 20:26:37,849:INFO: O     O   O O    O          O               O    O  O O     O         B-MED      O  O          O     O     O   O      O     O  O      O    
+2018-05-17 20:43:15,464:INFO: Initializing tf session
+2018-05-17 20:43:15,740:INFO: Reloading the latest trained model...
+2018-05-17 20:43:15,741:INFO: Restoring parameters from results/test/model.weights/
+2018-05-17 20:43:15,874:INFO: Testing model over test set
+2018-05-17 20:43:19,282:INFO: acc 97.28 - f1 85.54
+2018-05-17 20:43:19,282:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-17 20:43:33,127:INFO: i take xanax for my schizophrenia 
+2018-05-17 20:43:33,127:INFO: O O    B-MED O   O  O             
+2018-05-17 20:43:54,272:INFO: i take xxx   for my fever 
+2018-05-17 20:43:54,273:INFO: O O    B-MED O   O  B-DIS 
+2018-05-17 20:46:55,264:INFO: i take xxx   for my cough 
+2018-05-17 20:46:55,264:INFO: O O    B-MED O   O  B-DIS 
+2018-05-17 20:47:52,107:INFO: i take xxx for disease 
+2018-05-17 20:47:52,108:INFO: O O    O   O   B-DIS   
+2018-05-17 20:48:03,620:INFO: i take xxx   for my disease 
+2018-05-17 20:48:03,621:INFO: O O    B-MED O   O  B-DIS   
+2018-05-17 20:55:58,644:INFO: Initializing tf session
+2018-05-17 20:55:59,458:INFO: Epoch 1 out of 15
+2018-05-17 20:56:36,528:INFO: acc 91.50 - f1 68.05 - precision 67.53 - recall 68.59
+2018-05-17 20:56:36,986:INFO: - new best score!
+2018-05-17 20:56:36,986:INFO: Epoch 2 out of 15
+2018-05-17 20:57:12,026:INFO: acc 93.32 - f1 73.79 - precision 71.78 - recall 75.92
+2018-05-17 20:57:12,361:INFO: - new best score!
+2018-05-17 20:57:12,361:INFO: Epoch 3 out of 15
+2018-05-17 20:57:47,936:INFO: acc 94.54 - f1 77.63 - precision 80.00 - recall 75.39
+2018-05-17 20:57:48,296:INFO: - new best score!
+2018-05-17 20:57:48,297:INFO: Epoch 4 out of 15
+2018-05-17 20:58:24,413:INFO: acc 95.62 - f1 79.58 - precision 80.65 - recall 78.53
+2018-05-17 20:58:24,858:INFO: - new best score!
+2018-05-17 20:58:24,859:INFO: Epoch 5 out of 15
+2018-05-17 20:59:00,205:INFO: acc 96.22 - f1 82.94 - precision 83.16 - recall 82.72
+2018-05-17 20:59:00,570:INFO: - new best score!
+2018-05-17 20:59:00,571:INFO: Epoch 6 out of 15
+2018-05-17 21:00:23,656:INFO: acc 96.49 - f1 84.16 - precision 83.51 - recall 84.82
+2018-05-17 21:00:24,018:INFO: - new best score!
+2018-05-17 21:00:24,018:INFO: Epoch 7 out of 15
+2018-05-18 00:56:08,129:INFO: acc 96.76 - f1 85.20 - precision 83.08 - recall 87.43
+2018-05-18 00:56:08,794:INFO: - new best score!
+2018-05-18 00:56:08,794:INFO: Epoch 8 out of 15
+2018-05-18 00:56:49,488:INFO: acc 97.03 - f1 86.08 - precision 84.77 - recall 87.43
+2018-05-18 00:56:49,967:INFO: - new best score!
+2018-05-18 00:56:49,967:INFO: Epoch 9 out of 15
+2018-05-18 00:57:28,972:INFO: acc 96.97 - f1 85.79 - precision 84.69 - recall 86.91
+2018-05-18 00:57:28,972:INFO: Epoch 10 out of 15
+2018-05-18 00:58:07,501:INFO: acc 97.03 - f1 86.53 - precision 85.64 - recall 87.43
+2018-05-18 00:58:07,995:INFO: - new best score!
+2018-05-18 00:58:07,996:INFO: Epoch 11 out of 15
+2018-05-18 00:58:48,831:INFO: acc 97.10 - f1 86.60 - precision 85.28 - recall 87.96
+2018-05-18 00:58:49,340:INFO: - new best score!
+2018-05-18 00:58:49,340:INFO: Epoch 12 out of 15
+2018-05-18 00:59:31,329:INFO: acc 96.83 - f1 85.27 - precision 84.18 - recall 86.39
+2018-05-18 00:59:31,329:INFO: Epoch 13 out of 15
+2018-05-18 01:00:12,245:INFO: acc 97.03 - f1 86.46 - precision 86.01 - recall 86.91
+2018-05-18 01:00:12,245:INFO: Epoch 14 out of 15
+2018-05-18 01:00:56,653:INFO: acc 97.10 - f1 86.98 - precision 86.53 - recall 87.43
+2018-05-18 01:00:57,077:INFO: - new best score!
+2018-05-18 01:00:57,078:INFO: Epoch 15 out of 15
+2018-05-18 01:01:36,093:INFO: acc 97.10 - f1 86.01 - precision 85.13 - recall 86.91
+2018-05-18 15:41:12,276:INFO: Initializing tf session
+2018-05-18 15:41:12,571:INFO: Reloading the latest trained model...
+2018-05-18 15:41:12,571:INFO: Restoring parameters from results/test/model.weights/
+2018-05-18 15:41:12,739:INFO: Testing model over test set
+2018-05-18 15:41:15,788:INFO: acc 97.86 - f1 89.02 - precision 87.16 - recall 90.97
+2018-05-18 15:41:15,788:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-18 15:41:29,725:INFO: i found out i have rheumatoid arthritis.2good days in a row!! increased prednisone is helping.im super tired but hoping 2work on monday pt!! 
+2018-05-18 15:41:29,725:INFO: O O     O   O O    O          O               O    O  O O     O         B-MED      O  O          O     O     O   O      O     O  O      O    
+2018-05-18 15:41:56,183:INFO: i use xxx for rheumatoid arthritis 
+2018-05-18 15:41:56,183:INFO: O O   O   O   O          B-DIS     
+2018-05-18 15:42:18,569:INFO: i have rheumatoid arthritis 
+2018-05-18 15:42:18,569:INFO: O O    O          B-DIS     
+2018-05-18 15:42:30,633:INFO: i have asthma 
+2018-05-18 15:42:30,633:INFO: O O    B-DIS  
+2018-05-18 15:42:37,324:INFO: i have dasdasdas 
+2018-05-18 15:42:37,324:INFO: O O    B-DIS     
+2018-05-18 15:42:49,755:INFO: i found out i have asthma 
+2018-05-18 15:42:49,755:INFO: O O     O   O O    B-DIS  
+2018-05-18 15:43:05,030:INFO: i found out i have rheumatoid arthritis 
+2018-05-18 15:43:05,030:INFO: O O     O   O O    O          B-DIS     
+2018-05-18 15:43:16,175:INFO: i found out i have rheumatoid arthritis. 
+2018-05-18 15:43:16,175:INFO: O O     O   O O    O          O          
+2018-05-18 15:43:26,089:INFO: i found out i have rheumatoid arthritis 
+2018-05-18 15:43:26,089:INFO: O O     O   O O    O          B-DIS     
+2018-05-18 15:43:34,014:INFO: found out i have rheumatoid arthritis 2good days in a row!! increased prednisone is helping.im super tired but hoping 2work on monday pt!! 
+2018-05-18 15:43:34,014:INFO: O     O   O O    O          B-DIS     O     O    O  O O     O         B-MED      O  O          O     O     O   O      O     O  O      O    
+2018-05-18 15:44:21,452:INFO: i think this combo of methotrexate and prednisone is the magic ticket for my rheumatoid arthritis 
+2018-05-18 15:44:21,452:INFO: O O     O    O     O  O            O   B-MED      O  O   O     O      O   O  O          B-DIS     
+2018-05-18 15:44:42,282:INFO: i use asthma and sadas 
+2018-05-18 15:44:42,282:INFO: O O   B-DIS  O   O     
+2018-05-18 15:44:56,706:INFO: i use asdas and sadas for cold  
+2018-05-18 15:44:56,706:INFO: O O   O     O   O     O   B-DIS 
+2018-05-18 15:45:18,671:INFO: i use prednisone and xanax for cold  
+2018-05-18 15:45:18,671:INFO: O O   B-MED      O   B-MED O   B-DIS 
+2018-05-18 15:53:06,290:INFO: i have asthma and headache 
+2018-05-18 15:53:06,290:INFO: O O    B-DIS  O   O        
+2018-05-18 15:53:13,242:INFO: i have asthma and cough 
+2018-05-18 15:53:13,242:INFO: O O    B-DIS  O   O     
+2018-05-18 15:53:33,705:INFO: i have cough and asthma 
+2018-05-18 15:53:33,705:INFO: O O    O     O   B-DIS  
+2018-05-18 15:53:40,253:INFO: i have fever and asthma 
+2018-05-18 15:53:40,253:INFO: O O    O     O   B-DIS  
+2018-05-18 15:53:55,741:INFO: i have anxiety and asthma 
+2018-05-18 15:53:55,741:INFO: O O    O       O   B-DIS  
+2018-05-18 15:54:10,301:INFO: i have anxiety and depression 
+2018-05-18 15:54:10,301:INFO: O O    B-DIS   O   B-DIS      
+2018-05-18 15:55:24,939:INFO: geez fuck yeah zoloft causes me horrible stomach aches so it's gotta go but my abilify doesn't do anything for my schizophrenia 
+2018-05-18 15:55:24,939:INFO: O    O    O    B-MED  O      O  O        O       O     O  O    O     O  O   O  O       O       O  O        O   O  O             
+2018-05-18 15:56:37,210:INFO: i was able to take sudafed and robitussin dm    or mucinex dm    
+2018-05-18 15:56:37,210:INFO: O O   O    O  O    B-MED   O   B-MED      I-MED O  B-MED   I-MED 
+2018-05-18 15:57:23,150:INFO: i¡¯ve tried dayquil nyquil mucinex alka-seltzer and robitissin and nothing is helping me with my sinus pressure and congestion 
+2018-05-18 15:57:23,181:INFO: O    O     B-MED   B-MED  B-MED   B-MED        O   B-MED      O   O       O  O       O  O    O  O     O        O   O          
+2018-05-18 15:58:11,263:INFO: sounds like a good plan! i just got over a nasty cold  too. mucinex dm    max   is awesome. suffering 15 min hacking fits before that stuff. 
+2018-05-18 15:58:11,263:INFO: O      O    O O    O     O O    O   O    O O     B-DIS O    B-MED   I-MED I-MED O  O        O         O  O   O       O    O      O    O      
+2018-05-18 16:00:58,649:INFO: i use xxxxx to cold  
+2018-05-18 16:00:58,649:INFO: O O   B-MED O  B-DIS 
+2018-05-18 17:17:45,715:INFO: Initializing tf session
+2018-05-18 17:17:46,035:INFO: Reloading the latest trained model...
+2018-05-18 17:17:46,035:INFO: Restoring parameters from results/test/model.weights/
+2018-05-18 17:17:46,192:INFO: Testing model over test set
+2018-05-18 17:17:49,087:INFO: acc 97.86 - f1 89.02 - precision 87.16 - recall 90.97
+2018-05-18 17:17:49,091:INFO: 
+This is an interactive mode.
+To exit, enter 'exit'.
+You can enter a sentence like
+input> I love Paris
+2018-05-18 17:17:49,103:INFO:   
+2018-05-18 17:17:49,103:INFO: O 
+2018-05-18 17:18:01,028:INFO: i can't sleep unless i take my sleepy medicine or a xanax :'( # insomnia # anxietyisabitch" 
+2018-05-18 17:18:01,029:INFO: O O     O     O      O O    O  O      O        O  O B-MED O   O B-DIS    O O                
